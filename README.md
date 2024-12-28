@@ -1,5 +1,12 @@
 - hey, im eden
-- interested in source modding, 3d moddeling with blender, texturing w/ substance painter, reverse engineering, & modding
-- im learning lua & c++/c#
-- pronouns: she/her
-- fun fact: tf2 was in development for 9 years, and its been 7 since jungle inferno (the last majour update). in 3 years, it'll be TF2's 20th anniversary, and also it would've been in hiatus for as long as it has been in development.
+- im learning lua, css isn't a programming language, html isn't a programming language, & python
+
+- i want to learn c++, c, c#, javascript, how to make cli applications, machine learning
+
+- goals
+  make a linux distro someday
+  no longer have a penis
+  learn math good
+
+- in progress goals:
+    make a cli application
