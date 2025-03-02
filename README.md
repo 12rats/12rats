@@ -1,7 +1,7 @@
 - hey, im eden
-- im learning lua, css isn't a programming language, html isn't a programming language, & python
+- im learning lua, C++, & python
 
-- i want to learn c++, c, c#, javascript, how to make cli applications, machine learning
+- i want to learn c, c#, javascript, and machine learning
 
 - goals
   make a linux distro someday
@@ -9,4 +9,7 @@
   learn math good
 
 - in progress goals:
-    make a cli application
+    too depressed to do anything anymore
+
+- finished goals
+     make a cli application
