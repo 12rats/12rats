@@ -8,8 +8,8 @@
   no longer have a penis
   learn math good
 
-- in progress goals:
+- in progress goals;
     too depressed to do anything anymore
 
-- finished goals
+- finished goals;
      make a cli application
