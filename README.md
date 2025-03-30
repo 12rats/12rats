@@ -3,10 +3,10 @@
 
 - i want to learn c, c#, javascript, and machine learning
 
-- goals
-  make a linux distro someday
-  no longer have a penis
-  learn math good
+- goals;
+  make a linux distro someday,
+  no longer have a penis,
+  learn math good,
 
 - in progress goals;
     too depressed to do anything anymore
