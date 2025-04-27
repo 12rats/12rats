@@ -1,15 +1,15 @@
 - hey, im eden
-- im learning lua, C++, & python
+- im learning lua and rust
 
-- i want to learn c, c#, javascript, and machine learning
+- i want to learn c, c++, c#, and rust
 
 - goals;
   make a linux distro someday,
   no longer have a penis,
-  learn math good,
+  learn math good.
 
 - in progress goals;
-    too depressed to do anything anymore
+    my-rust-os
 
 - finished goals;
      make a cli application
